@@ -6,3 +6,5 @@
 - **[Rocket.Chat](https://www.rocket.chat/)** — self-managed communication platform for teams and communities.
 
 Zulip is excellent for long-running technical discussions; Matrix/Element is strongest when federation matters.
+
+For private messaging and a direct **Signal vs Element/Matrix** comparison, see **[secure-messaging.md](secure-messaging.md)**.
