@@ -12,6 +12,14 @@ Looking for less-obvious picks? See **[Hidden gems and underrated projects →](
 - **PeerTube** — alternative to centralized video platforms: https://joinpeertube.org/
 - **Owncast** — alternative for self-hosted live streaming: https://owncast.online/
 
+## Secure messaging
+
+- **Signal** — open-source end-to-end encrypted messenger with voice/video calls and groups; the service is centralized: https://signal.org/
+- **Matrix** — open federated messaging protocol/network where users can choose or self-host homeservers: https://matrix.org/
+- **Element** — prominent open-source Matrix client for Android, desktop and web: https://element.io/
+
+For the difference between Signal's centralized model and Matrix/Element's federated model, see **[secure messaging →](categories/secure-messaging.md)**.
+
 ## Browsers and search
 
 - **Firefox** — general-purpose open-source browser: https://www.mozilla.org/firefox/
