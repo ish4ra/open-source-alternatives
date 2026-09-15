@@ -2,6 +2,8 @@
 
 A compact starting point for people replacing popular proprietary software and services.
 
+Looking for less-obvious picks? See **[Hidden gems and underrated projects →](HIDDEN-GEMS.md)**.
+
 ## Social and publishing
 
 - **Mastodon** — alternative to X/Twitter: https://joinmastodon.org/
@@ -15,6 +17,8 @@ A compact starting point for people replacing popular proprietary software and s
 - **Firefox** — general-purpose open-source browser: https://www.mozilla.org/firefox/
 - **LibreWolf** — Firefox-derived browser with privacy-focused defaults: https://librewolf.net/
 - **Mullvad Browser** — privacy-focused browser based on Firefox ESR: https://mullvad.net/browser
+- **Helium** — minimal privacy-first Chromium browser based on ungoogled-chromium; currently a younger beta project: https://helium.computer/
+- **Cromite** — privacy-oriented Chromium browser for Android: https://github.com/uazo/cromite
 - **SearXNG** — self-hosted metasearch engine: https://docs.searxng.org/
 
 ## Files and cloud
@@ -23,6 +27,7 @@ A compact starting point for people replacing popular proprietary software and s
 - **Seafile** — file synchronization and sharing: https://www.seafile.com/
 - **Syncthing** — device-to-device file synchronization: https://syncthing.net/
 - **LocalSend** — local-network file transfer: https://localsend.org/
+- **PairDrop** — AirDrop-style cross-platform browser file transfer with self-hosting support: https://pairdrop.net/
 - **Kopia** — backup tool with snapshots and encryption: https://kopia.io/
 - **Restic** — command-line backup program: https://restic.net/
 
@@ -33,6 +38,7 @@ A compact starting point for people replacing popular proprietary software and s
 - **Jellyfin** — self-hosted media server: https://jellyfin.org/
 - **Kodi** — open-source media center: https://kodi.tv/
 - **Stremio** — open-source addon-driven media discovery and streaming hub: https://www.stremio.com/
+- **Yamtrack** — self-hosted tracker for movies, shows, anime, manga, games, books and more, with Jellyfin/Plex/Emby integrations: https://github.com/FuzzyGrim/Yamtrack
 - **VLC** — cross-platform media player: https://www.videolan.org/vlc/
 - **mpv** — lightweight media player: https://mpv.io/
 
@@ -41,12 +47,18 @@ A compact starting point for people replacing popular proprietary software and s
 - **Navidrome** — self-hosted music server: https://www.navidrome.org/
 - **Funkwhale** — self-hosted and federated audio platform: https://www.funkwhale.audio/
 - **Strawberry** — desktop music player and organizer: https://www.strawberrymusicplayer.org/
+- **Ampcast** — Winamp-inspired player that can sit in front of Jellyfin, Navidrome/Subsonic, Plex, Emby and other sources: https://github.com/rekkyrosso/ampcast
 
 ## Notes and productivity
 
 - **Joplin** — notes and to-do application with synchronization options: https://joplinapp.org/
 - **Logseq** — local-first knowledge management and outlining: https://logseq.com/
 - **Notesnook** — open-source notes application: https://notesnook.com/
+- **Memos** — lightweight self-hosted Markdown notes built around fast timeline-style capture: https://usememos.com/
+- **Rnote** — handwriting, sketching and PDF/image annotation with stylus support: https://rnote.flxzt.net/
+- **Super Productivity** — task management, planning/timeboxing and time tracking: https://super-productivity.com/
+- **Karakeep** — self-hostable bookmark-everything app for links, notes and images: https://karakeep.app/
+- **Linkwarden** — self-hosted bookmark/read-later manager with webpage preservation: https://linkwarden.app/
 - **LibreOffice** — desktop office suite: https://www.libreoffice.org/
 - **ONLYOFFICE Community** — office and document collaboration tools: https://www.onlyoffice.com/
 - **Vikunja** — self-hosted tasks and project planning: https://vikunja.io/
@@ -57,6 +69,11 @@ A compact starting point for people replacing popular proprietary software and s
 - **Bitwarden** — hosted or self-hosted cross-platform password manager: https://bitwarden.com/
 - **KeePassXC** — local-first desktop password manager: https://keepassxc.org/
 - **Vaultwarden** — lightweight Bitwarden-compatible server: https://github.com/dani-garcia/vaultwarden
+
+## Authenticators and 2FA
+
+- **Ente Auth** — free open-source authenticator with end-to-end encrypted backups, multi-device sync and offline token generation: https://ente.io/auth/
+- **Aegis Authenticator** — Android-focused authenticator with an encrypted local vault and strong import/export controls: https://getaegis.app/
 
 ## Office and collaboration
 
@@ -111,6 +128,8 @@ A compact starting point for people replacing popular proprietary software and s
 - **AdGuard Home** — network-wide DNS filtering: https://adguard.com/adguard-home/overview.html
 - **RustDesk** — remote desktop software: https://rustdesk.com/
 - **MeshCentral** — remote device management: https://meshcentral.com/
+- **Gatus** — lightweight config-as-code uptime/status monitoring and alerting: https://github.com/TwiN/gatus
+- **Glance** — self-hosted dashboard that combines feeds, monitoring and widgets on one page: https://github.com/glanceapp/glance
 
 ## Local AI
 
