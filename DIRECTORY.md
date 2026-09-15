@@ -51,6 +51,37 @@ A compact starting point for people replacing popular proprietary software and s
 - **Vikunja** — self-hosted tasks and project planning: https://vikunja.io/
 - **OpenProject** — project management platform: https://www.openproject.org/
 
+## Password managers
+
+- **Bitwarden** — hosted or self-hosted cross-platform password manager: https://bitwarden.com/
+- **KeePassXC** — local-first desktop password manager: https://keepassxc.org/
+- **Vaultwarden** — lightweight Bitwarden-compatible server: https://github.com/dani-garcia/vaultwarden
+
+## Office and collaboration
+
+- **LibreOffice** — mature desktop office suite: https://www.libreoffice.org/
+- **ONLYOFFICE** — desktop and self-hosted collaborative office suite: https://www.onlyoffice.com/
+- **Collabora Online** — browser-based collaborative office suite: https://www.collaboraonline.com/
+- **CryptPad** — privacy-focused collaborative office tools: https://cryptpad.org/
+
+## Maps and navigation
+
+- **Organic Maps** — privacy-focused offline maps and navigation: https://organicmaps.app/
+- **OsmAnd** — advanced offline navigation and OpenStreetMap tooling: https://osmand.net/
+- **CoMaps** — community-driven privacy-focused navigation: https://www.comaps.app/
+
+## Email clients
+
+- **Thunderbird** — cross-platform email, calendar, and contacts client: https://www.thunderbird.net/
+- **K-9 Mail** — open-source Android email client: https://k9mail.app/
+- **FairEmail** — privacy-focused Android email client: https://email.faircode.eu/
+
+## Translation
+
+- **LibreTranslate** — self-hostable machine-translation API and web interface: https://libretranslate.com/
+- **Apertium** — rule-based machine-translation platform: https://www.apertium.org/
+- **Argos Translate** — offline neural machine translation: https://www.argosopentech.com/
+
 ## Creative tools
 
 - **GIMP** — raster image editor: https://www.gimp.org/
