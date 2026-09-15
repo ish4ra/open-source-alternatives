@@ -32,6 +32,7 @@ A compact starting point for people replacing popular proprietary software and s
 - **PhotoPrism** — self-hosted photo management: https://www.photoprism.app/
 - **Jellyfin** — self-hosted media server: https://jellyfin.org/
 - **Kodi** — open-source media center: https://kodi.tv/
+- **Stremio** — open-source addon-driven media discovery and streaming hub: https://www.stremio.com/
 - **VLC** — cross-platform media player: https://www.videolan.org/vlc/
 - **mpv** — lightweight media player: https://mpv.io/
 
