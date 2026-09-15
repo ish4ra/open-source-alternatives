@@ -1,0 +1,8 @@
+# Media players
+
+- **[VLC](https://www.videolan.org/vlc/)** — cross-platform player with broad codec and streaming support.
+- **[mpv](https://mpv.io/)** — lightweight, scriptable media player popular with power users.
+- **[Celluloid](https://celluloid-player.github.io/)** — GTK frontend for mpv with a simpler desktop interface.
+- **[Haruna](https://haruna.kde.org/)** — KDE media player built on mpv.
+
+Choose VLC for an all-purpose GUI, mpv for scripting and minimalism, and Celluloid/Haruna when you want mpv with a friendlier interface.
