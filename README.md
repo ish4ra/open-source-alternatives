@@ -57,6 +57,7 @@ Need a practical setup guide instead of just a recommendation?
 | If you want to replace… | Start with | Why |
 |---|---|---|
 | Chrome / proprietary browsers | **Firefox, LibreWolf, Helium, Cromite** | Multiple engines and privacy trade-offs |
+| WhatsApp / Telegram-style private messaging | **Signal, Element + Matrix** | Simple centralized secure messaging vs federated open messaging |
 | Google Authenticator / Authy | **Ente Auth, Aegis** | Open-source 2FA with sync or local-first options |
 | Google Drive / cloud sync | **Nextcloud, Seafile, Syncthing** | Self-hosted cloud or direct device sync |
 | Google Photos | **Immich, PhotoPrism** | Self-hosted photo libraries |
@@ -76,6 +77,7 @@ Need a practical setup guide instead of just a recommendation?
 | Category | Open |
 |---|---|
 | 🌐 Browsers & search | **[web-and-search.md](categories/web-and-search.md)** |
+| 💬 Secure messaging | **[secure-messaging.md](categories/secure-messaging.md)** |
 | 🔐 Authenticators & 2FA | **[authenticators.md](categories/authenticators.md)** |
 | 🎬 Media players | **[media-players.md](categories/media-players.md)** |
 | 🖥️ Media servers | **[media-servers.md](categories/media-servers.md)** |
@@ -87,6 +89,19 @@ Need a practical setup guide instead of just a recommendation?
 | 🤖 Local AI | **[local-ai.md](categories/local-ai.md)** |
 
 For everything else, use **[DIRECTORY.md](DIRECTORY.md)**.
+
+---
+
+## 💬 Signal or Element + Matrix?
+
+They both belong on an open-source alternatives list, but they solve the problem with different network models.
+
+| Pick | Model | Best for |
+|---|---|---|
+| **Signal** | Centralized service with open-source client/server code | Simple private chats, groups and calls |
+| **Element + Matrix** | Federated protocol/network with server choice and self-hosting options | Federation, communities, interoperability and server control |
+
+**Matrix is the protocol/network; Element is a client.** See **[secure messaging](categories/secure-messaging.md)** for the fuller comparison.
 
 ---
 
