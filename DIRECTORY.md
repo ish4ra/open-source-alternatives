@@ -71,6 +71,7 @@ For the difference between Signal's centralized model and Matrix/Element's feder
 - **ONLYOFFICE Community** — office and document collaboration tools: https://www.onlyoffice.com/
 - **Vikunja** — self-hosted tasks and project planning: https://vikunja.io/
 - **OpenProject** — project management platform: https://www.openproject.org/
+- **Tale** — self-hosted shared project tasks and files for people and AI agents, an alternative for task-workspace use cases; requires deployment and separate infrastructure/model costs: https://github.com/tale-project/tale
 
 ## Password managers
 
