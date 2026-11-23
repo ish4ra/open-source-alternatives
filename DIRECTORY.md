@@ -137,6 +137,7 @@ For the difference between Signal's centralized model and Matrix/Element's feder
 - **RustDesk** — remote desktop software: https://rustdesk.com/
 - **MeshCentral** — remote device management: https://meshcentral.com/
 - **Gatus** — lightweight config-as-code uptime/status monitoring and alerting: https://github.com/TwiN/gatus
+- **SiteWatcher** (**Self-hosted**) — replaces UptimeRobot for website uptime checks and public status pages, with TLS and domain expiry tracking. Runs on your own server: https://github.com/NikKurkov/sitewatcher
 - **Glance** — self-hosted dashboard that combines feeds, monitoring and widgets on one page: https://github.com/glanceapp/glance
 
 ## Local AI
